@@ -16,7 +16,7 @@ Projeto de **Jogo da Memória** desenvolvido com **HTML, CSS e JavaScript**, com
 
 ---
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - **HTML5**
 - **CSS3**
