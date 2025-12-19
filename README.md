@@ -20,4 +20,4 @@ Projeto de **Jogo da Memória** desenvolvido com **HTML, CSS e JavaScript**, com
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
